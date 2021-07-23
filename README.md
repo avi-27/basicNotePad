@@ -1,6 +1,6 @@
 # Basic Notepad
 This is an assignment notepad made using QT
-# Ubuntu and Qt version
+## Ubuntu and Qt version
 
 Compiled and Tested on Ubuntu Ubuntu 20.04. with Qt 5
 
