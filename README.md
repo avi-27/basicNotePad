@@ -1,4 +1,4 @@
-# basicNotePad
+# Basic Notepad
 This is an assignment notepad made using QT
 # Ubuntu and Qt version
 
