@@ -1,5 +1,5 @@
 # Basic Notepad
-This is a basic notepad made using QT creator and it does simple notepad activites.
+This is a basic notepad made using QT Creator and it does simple notepad activites.
 ## Ubuntu and Qt version
 
 Compiled and Tested on Ubuntu Ubuntu 20.04. with Qt 5
